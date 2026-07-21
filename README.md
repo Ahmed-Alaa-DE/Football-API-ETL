@@ -3,7 +3,7 @@
 
 
 
-![Architecture](High level architecture.png) 
+![Architecture](Project%20Workflow.png) 
 
 
 
@@ -15,7 +15,7 @@ An ETL pipeline built with Python that extracts UEFA Championship standings from
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates a complete ETL workflow:
 
@@ -51,7 +51,7 @@ This project demonstrates a complete ETL workflow:
 
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - REST API
 - Python
