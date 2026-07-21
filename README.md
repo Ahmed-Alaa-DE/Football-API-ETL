@@ -44,13 +44,13 @@ This project demonstrates a complete ETL workflow:
 
 #### The pipeline loads the following information into SQL Server:
 
--"Team information"
--"Ranking"
--"Points"
--"Goal difference"
--"Match statistics (Win, Draw, Loss)"
--"Goals scored and conceded"
--"Team form"
+* "Team information"
+* "Ranking"
+* "Points"
+* "Goal difference"
+* "Match statistics (Win, Draw, Loss)"
+* "Goals scored and conceded"
+* "Team form"
 
 
 
