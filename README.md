@@ -38,7 +38,11 @@ This project demonstrates a complete ETL workflow:
 
 
 
-####The pipeline loads the following information into SQL Server:
+
+
+
+
+#### The pipeline loads the following information into SQL Server:
 
 -"Team information"
 -"Ranking"
